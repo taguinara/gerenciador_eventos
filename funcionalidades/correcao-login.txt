@@ -1,0 +1,7 @@
+Hotfix: Correção de Login
+
+Problema: falha no processo de autenticação.
+
+Objetivo: registrar a correção urgente do problema de login.
+
+Status: correção registrada para revisão.
