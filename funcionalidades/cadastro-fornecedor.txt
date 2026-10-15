@@ -1,0 +1,5 @@
+Funcionalidade: Cadastro de Fornecedores
+
+Objetivo: permitir o registro de fornecedores no sistema.
+
+Status: funcionalidade em desenvolvimento.
